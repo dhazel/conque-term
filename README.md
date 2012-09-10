@@ -1,5 +1,6 @@
 
-This is a mirror of http://code.google.com/p/conque/ converted from svn to git.
+This is a mirror of http://code.google.com/p/conque/ converted from svn to git,
+and up-to-date with version 2.3 of the parent repo.
 
 This project is [MIT Licensed](http://opensource.org/licenses/mit-license.php).
 
